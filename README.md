@@ -31,10 +31,6 @@
   </a>
   <br>
   <a href="https://github.com/meeftah/">
-    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=meeftah&theme=dark" alt="meeftah" />
-  </a>
-  <br>
-  <a href="https://github.com/meeftah/">
     <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=meeftah&show_icons=true&theme=dark&title_color=ffffff&text_color=adadad&hide_border=true&locale=en&layout=compact" alt="meeftah" />
   </a>
 </p>
