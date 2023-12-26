@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meeftah" alt="meeftah" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance Projects**
+- 🔭 Currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **Laravel, Flutter, Reacts, Go**
+- 🌱 Currently learning **Laravel, Flutter, Reacts, Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
