@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Miftah</h1>
+<h1 align="center">Hi 👋, I'm Miftah</h1>
 <h3 align="center">Code Artisan | Web & Mobile Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeftah&label=Profile%20views&color=dc5050&style=plastic" alt="meeftah" /> </p>
