@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **Freelance Projects**
 
-- 🌱 Currently learning **Laravel, Flutter, Reacts, Go**
+- 🌱 Currently learning **Laravel, Flutter, Reacts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
