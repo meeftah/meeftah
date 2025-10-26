@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeftah&label=Profile%20views&color=dc5050&style=plastic" alt="meeftah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meeftah&margin-w=10&margin-h=10" alt="meeftah" /></a> </p>
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=meeftah)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🔭 Currently working on **Freelance Projects**
 
