@@ -35,7 +35,7 @@
         <li>🔭 <strong>Currently:</strong> Freelance Projects & Open Source</li>
         <li>🌱 <strong>Learning:</strong> Laravel, Flutter, React, Go</li>
         <li>💡 <strong>Interests:</strong> System Architecture, API Design, UI/UX</li>
-        <li>⚡ <strong>Fun Fact:</strong> I write better code after 10 PM ☕</li>
+        <li>⚡ <strong>Fun Fact:</strong> I write better code after drink coffee ☕</li>
       </ul>
     </td>
     <td width="45%" align="center">
